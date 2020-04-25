@@ -1,0 +1,159 @@
+#top
+{
+    margin-top: -.5cm;
+    overflow: visible;
+    width: 80%;
+    padding: 5px;
+    text-align: justify;
+    position: fixed;
+    margin-left: 10%;
+    background-color: white;
+} 
+#nav
+{
+    margin-top: -1.4cm;
+    text-align: right; 
+    width: 95%;
+    overflow: -moz-hidden-unscrollable;
+    background-color: white;
+}
+#nav a
+{
+    text-align: right;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 10px;
+    text-transform: uppercase;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
+
+#nav a:hover
+{
+    background-color: yellow;
+    color: black;
+}
+
+#nav a.active
+{
+    background-color: rgb(0, 3, 0);
+    color: white;
+}
+
+#teampic
+{
+    margin-top: -5cm;
+    float: right;
+    overflow: hidden;
+    margin-right: 20%;
+    margin-left: 60%;
+}
+
+#welcome
+{
+    float: left;
+    overflow: unset;
+    margin-left: 20%;
+    margin-right: 60%;
+    margin-top: 2cm;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin-top: 5cm;
+}
+.service1
+{
+    margin-top: .5cm;
+    width: 3in;
+    height: 3in;
+    margin: 10%;
+    overflow: visible;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.service2
+{
+    margin-top:-11.3cm;
+    width: 3in;
+    height: 3in;
+    margin-left: 40%;
+    overflow: visible;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.service3
+{
+    margin-top: -7.7cm;
+    width: 3in;
+    height: 3in;
+    margin-left: 70%;
+    overflow: visible;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.service4
+{
+    margin-top: 6cm;
+    width: 3in;
+    height: 3in;
+    margin: 10%;
+    overflow: visible;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.footer 
+{
+    text-align: center;
+    width: 20.5cm;
+    height: 1.5cm;
+    margin-left: 20%;
+}
+
+.test
+{
+    width: 80%;
+    padding: 15px 15px;
+    box-sizing: border-box;
+}
+
+.-button
+{
+    background-color: yellow;
+    padding: 15px 15px;
+    border: black solid;
+    color: black;
+}
+
+#coninfo
+{
+    float: right;
+    margin-top: -10cm;
+    margin-right: 15%;
+}
+
+.address
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 15px 15px;
+}
+
+#coninfo2
+{
+    float: right;
+    margin-top: -10cm;
+    margin-right: 10%;
+    width: 11cm;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.test2
+{
+    width: 250%;
+    padding: 15px 15px;
+    box-sizing: border-box;
+    border-color: black;
+}
